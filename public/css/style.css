@@ -1,0 +1,141 @@
+/*before styling*/
+
+/* h1 {
+    color: grey;
+} */
+
+img {
+  width: 250px;
+  margin-bottom: 20px;
+}
+
+/*after styling*/
+/* body {
+  color: #333333;
+  font-family: Arial;
+  max-width: 650px;
+  margin: 0 auto;
+  padding: 0 16px;
+
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+} */
+
+/* .main-content {
+  flex-grow: 1;
+} */
+
+/* footer {
+  color: #888888;
+  border-top: 2px solid #eeeeee;
+  margin-top: 16px;
+  padding: 16px 0;
+}
+
+header {
+  margin-top: 16px;
+  margin-bottom: 48px;
+}
+
+h1 {
+  font-size: 64px;
+  margin-bottom: 16px;
+}
+
+header a {
+  color: #888888;
+  margin-right: 16px;
+  text-decoration: none;
+}
+
+.portrait {
+  width: 250px;
+}
+
+input {
+  border: 2px solid #cccccc;
+  padding: 8px;
+}
+
+button {
+  cursor: pointer;
+  border: 0px solid #cccccc;
+  background: #888888;
+  color: white;
+  padding: 9px;
+} */
+
+.jumbotron {
+  background-color: #e2edff;
+}
+
+#projects {
+  padding-top: 5rem;
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+/* Styling the jumbotron section */
+
+/* Styling the paragraph inside the jumbotron */
+.jumbotron p {
+  font-size: 18px;
+  margin: 10px 0;
+}
+
+/* Styling the image */
+
+/* Styling the form */
+.jumbotron form {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+/* Styling the input field */
+.jumbotron input {
+  width: 20%;
+  padding: 10px;
+  padding-bottom: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* Styling the "Cari Lokasi" button */
+.jumbotron button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* Styling the paragraphs with IDs pesan-1 and pesan-2 */
+#pesan-1,
+#pesan-2 {
+  font-size: 16px;
+  margin-top: 10px;
+}
+
+#bantuan img {
+  width: 500px; /* Atur lebar sesuai kebutuhan Anda */
+  height: auto; /* Biarkan tinggi mengikuti proporsi aslinya */
+}
+
+#bantuan p {
+  font-size: 14px; /* Atur ukuran font untuk paragraf */
+}
+
+#bantuan h3 {
+  font-size: 18px; /* Atur ukuran font untuk judul h3 */
+}
+
+.text-dark {
+  color: black;
+}
